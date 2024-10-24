@@ -1,0 +1,98 @@
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.errmsg{
+  color: red;
+}
+
+app-check{
+  height: 20px;
+  width: 20px;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.sidecotainer{
+  display: flex;
+}
+.others{
+  flex: 4;
+  background-color:white;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+.sidecontainer{
+  display: flex;
+}
+.options{
+width: 1360px;
+ margin:auto;
+ height: 100opx;
+text-align: center;
+margin-top: 10px;
+margin-left: 50px;
+}
+.ref{
+  display: flex;
+}
+.agentdash{
+  width: 1360px;
+  margin:auto;
+  height: 100opx;
+ text-align: center;
+ margin-top: 10px;
+ margin-left: 50px;
+}
+.addproduct{
+  width: 600px;
+
+}
+.footer{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.addproduct {
+  padding: 2px; /* Add padding to the form */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a shadow border */
+}
+.products
+{
+  width: 900px;
+  margin-left: 30px;
+}
+.edit{
+  
+    width: 900px;
+    margin-left: 30px;
+  
+}

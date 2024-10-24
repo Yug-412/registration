@@ -1,0 +1,16 @@
+.register-container {
+    margin-left: 0px;
+    margin-right: 170px;
+    margin-top: 20px;
+  }
+  
+  .register-form {
+    margin-right: 100px;
+  }
+  
+  .register-form .row {
+    margin-bottom: 20px; /* Adjust the spacing between rows as needed */
+  }
+  
+  /* Your other CSS styles here... */
+  

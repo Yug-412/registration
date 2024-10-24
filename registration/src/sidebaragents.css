@@ -1,0 +1,66 @@
+.sidebaragents{
+    width: 320px;
+    height: calc(100vh - 50px);
+    color: white;
+    background-color:grey;
+    font-weight: bold;
+    font-size: 20px;
+    top: 50px;
+}
+.sidebaragentsWrapper
+{
+    padding: 20px;
+    
+}
+.sidebaragentsMenu{
+    margin-bottom: 10px;
+
+}
+.sidebaragentsTitle{
+    font-size: 20px;
+    color: white;
+}
+.sidebaragentsListItem{
+  
+    padding: 3px;
+    cursor: pointer;
+    align-items: center;
+    display: flex;
+    border-radius: 10px;
+    color: white;
+
+}
+.sidebaragentsListItem.active,
+.sidebaragentsListItem:hover{
+    background-color:rgb(97, 93, 93);
+}
+.sidebaragentsIcon{
+    margin-right: 5px;
+    font-size: 20px !important;
+    color: white;
+}
+.sidebaragentsDropdownMenu {
+   margin-left: 20px;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .sidebaragentsDropdownMenu li {
+    display: inline-block;
+    margin-right: 10px; /* Adjust this value according to your preference */
+  }
+  .sidebaragentsList {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    margin-left:17px;
+
+  }
+  .sidebaragentsDropdownMenu a {
+    text-decoration: none; /* Remove underline for links within dropdown menu */
+  }
+  .sidebaragentsLink {
+    text-decoration: none; /* Remove underline */
+  }
+    

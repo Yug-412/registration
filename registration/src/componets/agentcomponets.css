@@ -1,0 +1,11 @@
+.sidecontainer{
+    display: flex;
+  }
+  .options{
+  width: 1360px;
+   margin:auto;
+   height: 100opx;
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 30px;
+  }

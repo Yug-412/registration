@@ -1,0 +1,97 @@
+
+  .sidecotainer{
+    display: flex;
+  }
+  .others{
+    flex: 4;
+    background-color:white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .sidecontainer{
+    display: flex;
+  
+  }
+  .options{
+  width: 1360px;
+   margin:auto;
+   height: 100opx;
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 50px;
+  }
+  .ref{
+    display: flex;
+  }
+  .agentdash{
+    width: 1360px;
+    margin:auto;
+    height: 100opx;
+   text-align: center;
+   margin-top: 10px;
+   margin-left: 50px;
+  }
+  
+  .footer{
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  .addproduct {
+    padding: 30px; /* Add padding to the form */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a shadow border */
+    background-color: #cce2f5;
+   margin-left: 20px;
+   margin-right: 50px;
+   align-items: center;
+ 
+  }
+ 
+  .products
+  {
+    width: 1360px;
+    margin:auto;
+    height: 100opx;
+   margin-right: 30px;
+   margin-top: 40px;
+   margin-left: 20px;
+  }
+  .edit{
+    
+      width: 900px;
+      margin-left: 30px;
+    
+  }
+  .table-custom {
+    background-color: #adb7c1!important;
+  }
+  .assign{
+    width: 1360px;
+    margin:auto;
+    height: 100opx;
+    text-align: center;
+    margin-top: 40px;
+  }
+  .complete{
+    width: 1360px;
+    margin:auto;
+    height: 100opx;
+    text-align: center;
+    margin-top: 40px;
+    height: auto;  
+    position: static;
+  }
+  .reject{
+    width: 1360px;
+    margin:auto;
+    height: 100opx;
+    text-align: center;
+    margin-top: 40px;
+    height: auto;  
+   
+  }
+  .body {
+    
+    margin: 0;
+  }
+  
